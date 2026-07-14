@@ -1,0 +1,11 @@
+# Files that are generated when you run the project, so they do not need to be
+# stored in version control. Anyone can recreate them by running the scripts.
+
+car_data.db
+car_data.db-journal
+__pycache__/
+*.pyc
+
+# Note: the CSV data and the charts ARE kept in the repository on purpose, so
+# that someone browsing your GitHub can see the data and results without running
+# anything.
